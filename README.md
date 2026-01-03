@@ -32,14 +32,18 @@ This project analyzes global iPhone sales, user growth, regional performance, an
 
 ## **Tableau Dashboard**
 🔗 **Tableau Public Link:**  
-[https://public.tableau.com/app/profile/varun.kamasani/viz/GlobalIphonesales/GlobaliPhoneSalesMarketTrends?publish=yes](url)
+https://public.tableau.com/views/GlobalIphonesales/GlobaliPhoneSalesMarketTrends?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
+**Repository Structure**
 
-## **Repository Structure**
-iphone-sales-data-analysis/
+##iphone-sales-data-analysis/
 │
 ├── Iphone_Dataset.csv
 ├── iPhone_Sales_Analysis.ipynb
 ├── Tableau_Dashboard.twbx
-├── README.md
+└── README.md
+ Repository Structure
+
+
+
